@@ -1,0 +1,11 @@
+To get the code from repository to the local system
+
+git clone "https://github.com/Aswini676/JavaScript-.git"
+
+To share our code from local system to repository
+
+git status
+git add .
+git commit -m "Version"
+git push
+
